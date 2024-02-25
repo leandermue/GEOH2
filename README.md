@@ -9,7 +9,7 @@ To analyse a different area of interest, the input hexagon file needs to be chan
 
 https://github.com/carderne/ccg-spider
 
-The hexagon file needs to filled with the following attributes:
+The hexagon file needs to be filled with the following attributes:
 
   - waterbody_dist: Distance to selected waterbodies in area of interest
   - waterway_dist: Distance to selected waterways in area of interest
